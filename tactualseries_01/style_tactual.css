@@ -1,0 +1,40 @@
+/* CSS Document */
+
+
+a:link, a:visited, a:active  
+{ color: black; text-decoration: overline; border-style: solid; border-width: 0;}
+
+a:hover        
+{ color: white; text-decoration: none; background-color: white; border-style: solid; border-width: 0;}
+
+.main_title {font-family: "Georgia", Times New Roman, Times, serif; font-size: 14px;}
+.main_titlee {font-family: "Georgia", Times New Roman, Times, serif; font-size: 13px; line-height: 13.5px;}
+
+.toplink {font-family: "Georgia", Times New Roman, Times, serif; font-size: 9px; line-height: 12px;}
+
+.sigak_k {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 11px; color: #000000; line-height: 17px;}
+.sigak_ks {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 11px; color: #000000; line-height: 13px;}
+.sigak_kss {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 10px; color: #000000; line-height: 13px; letter-spacing: -1pt;}
+
+.sigak_e {font-family: "Georgia", Times New Roman, Times, serif; font-size: 11px; color: #000000; line-height: 17px;}
+.sigak_es {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #000000; line-height: 13px;}
+
+.sigak_k1 {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 11px; color: #B4B7A4; line-height: 17px;}
+.sigak_ks1 {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 11px; color: #B4B7A4; line-height: 13px;}
+
+.sigak_e1 {font-family: "Georgia", Times New Roman, Times, serif; font-size: 11px; color: #B4B7A4; line-height: 17px;}
+.sigak_es1 {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #B4B7A4; line-height: 13px;}
+
+.text_10 {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #000000; line-height: 13px;}
+.text_10_bio {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #000000; line-height: 15px;}
+
+.text_101 {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #B4B7A4; line-height: 13px;}
+.text_102 {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #666666; line-height: 13px;}
+
+.text_copyright {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #000000; line-height: 16px;}
+
+.2nd_title {font-family: "Georgia", Times New Roman, Times, serif; font-size: 11px;}
+
+.text_11k {font-family: "±Ã¼­", ±Ã¼­Ã¼, AppleMyungjo, serif; font-size: 11px; line-height: 18px; letter-spacing: -1pt;}
+
+.text_grid {font-family: "Georgia", Times New Roman, Times, serif; font-size: 10px; color: #000000; line-height: 13px;}
